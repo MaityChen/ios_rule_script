@@ -2,3 +2,4 @@
 # AUTHOR: maity
 payload:
   - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,spaceship.com
