@@ -1,0 +1,4 @@
+# NAME: personalCN
+# AUTHOR: maity
+payload:
+  - DOMAIN-SUFFIX,dyndns.com
